@@ -1,0 +1,11 @@
+Author: Dominoes
+Title: Ping Utilities
+A couple small commands for administrators that enhances the detection of the pings of users.
+
+Commands:
+
+/getping <name>
+ADMIN+ | Announces to the server the ping of the user specified. Replace <name> with the player's name.
+
+/togglepingscore
+ADMIN+ | Toggles a function that sets the player's score to their current ping. Useful on servers that need a different use of the Score portion of the player list.
