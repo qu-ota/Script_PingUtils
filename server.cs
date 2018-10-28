@@ -1,9 +1,9 @@
-/*
-Ping Utilities (Script_PingUtils)
-By Dominoes (37977), help from Blockland Content Creators ( https://discord.gg/r6ERkqy ), ping scoring script donated by ImPanda (30233)
------
-Comments next to many lines are for intrigued code-doers, if you don't like them safely ignore them
-*/
+//
+//Ping Utilities (Script_PingUtils)
+//By Dominoes (37977), help from Blockland Content Creators ( https://discord.gg/r6ERkqy ), ping scoring script donated by ImPanda (30233)
+//-----
+//Comments next to many lines are for intrigued code-doers, if you don't like them safely ignore them
+//
 
 $PingScoringEnabled = false; //setting variable for the function
 
